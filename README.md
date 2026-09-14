@@ -64,8 +64,8 @@
 ### 📈 Dynamic Activity & Contribution Rhythm
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pikadexofc&show_icons=true&bg_color=0d1117&title_color=fa7b1e&text_color=e2e8f0&icon_color=fa7b1e&border_color=30363d&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pikadexofc&background=0d1117&border=30363d&stroke=fa7b1e&ring=fa7b1e&fire=fa7b1e&currStreakLabel=fa7b1e&sideNums=e2e8f0&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pikadexofc&show_icons=true&bg_color=0d1117&title_color=fa7b1e&text_color=e2e8f0&icon_color=fa7b1e&border_color=30363d&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=pikadexofc&background=0d1117&border=30363d&stroke=fa7b1e&ring=fa7b1e&fire=fa7b1e&currStreakLabel=fa7b1e&sideNums=e2e8f0&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
