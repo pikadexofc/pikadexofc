@@ -33,6 +33,7 @@
 
 | Project | Description | Architecture |
 | :--- | :--- | :--- |
+| 🎬 [**Export Capcut Pro Video Free**](https://github.com/pikadexofc/export-capcut-pro-video-free) | Precision BDVE cryptographic solver unlocking unplayable CapCut & JianYing draft cache videos with 0% loss. | `Python` `Cryptanalysis` `H.264` `Tkinter` |
 | 🖼️ [**Copy Image as WebP**](https://github.com/pikadexofc/copy-image-as-webp) | Precision browser utility converting web images in-memory to WebP with broad clipboard fidelity. | `Manifest V3` `Offscreen Canvas` `Clipboard API` |
 | 🛡️ [**Pickko AdGuard / DOM Sweep**](https://github.com/pikadexofc/pickko-adguard) | Aggressive, zero-lag content blocking engine intercepting trackers and ads at network firewall layer. | `Declarative Net Request` `JavaScript` `MV3` |
 | ⏳ [**FlipClock Pro & FocusFlow**](https://github.com/pikadexofc/flipclock-pro) | Minimalist retro-aesthetic Pomodoro flip clock and offline-first routine management dashboard. | `React` `Tailwind CSS` `LocalStorage` |
